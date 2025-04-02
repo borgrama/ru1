@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg.xml"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 #PLAYLIST:VRU
 								
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал (HD ready)
